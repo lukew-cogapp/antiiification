@@ -23,13 +23,8 @@ jobs:
         with:
           node-version: 24
           cache: npm
-      - name: Install ImageMagick + ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y imagemagick ffmpeg
       - run: npm ci
-      - name: Build IIIF tiles + manifest
-        run: npm run build:iiif
-      - name: Build site
-        run: npm run build
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
