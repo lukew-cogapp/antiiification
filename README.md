@@ -1,4 +1,4 @@
-# Antifffication
+# Antiiification
 
 Photos and videos of ants in the Cogapp office, presented as a single IIIF
 Presentation v3 manifest viewable through Clover and Storiiies.
@@ -10,7 +10,7 @@ Presentation v3 manifest viewable through Clover and Storiiies.
 - `sharp` to generate IIIF Image API Level 0 static tile pyramids
 - `@samvera/clover-iiif` viewer (handles photo + video canvases)
 - Storiiies viewer via iframe as a secondary view
-- Hosted on GitHub Pages — base path `/antifffication/`
+- Hosted on GitHub Pages — base path `/antiiification/`
 
 ## Layout
 
@@ -41,5 +41,5 @@ tiles, builds Vite, and publishes to GitHub Pages.
 The manifest URL on the deployed site is:
 
 ```
-https://lukew-cogapp.github.io/antifffication/iiif/manifest.json
+https://lukew-cogapp.github.io/antiiification/iiif/manifest.json
 ```

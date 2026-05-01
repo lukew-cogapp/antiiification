@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "/antifffication/iiif/pxl-20260501-084632998",
+  "id": "/antiiification/iiif/pxl-20260501-084632998",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

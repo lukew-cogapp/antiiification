@@ -22,9 +22,9 @@ const SOURCE_DIR = path.resolve("source-media");
 const OUT_DIR = path.resolve("public/iiif");
 const TILE_SIZE = 512;
 // Default to a path-only base so the same artefact works in dev and prod
-// (Vite serves /antifffication/iiif locally; same on GitHub Pages). Set
+// (Vite serves /antiiification/iiif locally; same on GitHub Pages). Set
 // IIIF_BASE in CI if you want absolute URLs published.
-const SITE_BASE = process.env.IIIF_BASE ?? "/antifffication";
+const SITE_BASE = process.env.IIIF_BASE ?? "/antiiification";
 const IIIF_BASE = `${SITE_BASE}/iiif`;
 
 type Canvas = Record<string, unknown>;
@@ -334,7 +334,7 @@ async function main() {
     "@context": "http://iiif.io/api/presentation/3/context.json",
     id: `${IIIF_BASE}/manifest.json`,
     type: "Manifest",
-    label: { en: ["Antifffication — ants of the Cogapp office"] },
+    label: { en: ["Antiiification — ants of the Cogapp office"] },
     summary: {
       en: [
         "Photographs and videos of ants encountered around the Cogapp office.",

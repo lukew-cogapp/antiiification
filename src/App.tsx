@@ -52,7 +52,7 @@ function App() {
     return () => observer.disconnect();
   }, []);
 
-  const title = manifest?.label?.en?.[0] ?? "Antifffication";
+  const title = manifest?.label?.en?.[0] ?? "Antiiification";
   const summary = manifest?.summary?.en?.[0] ?? "";
 
   const activeCanvas = useMemo(() => {
