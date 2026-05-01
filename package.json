@@ -1,0 +1,40 @@
+{
+  "name": "antifffication",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "build:iiif": "tsx scripts/build-iiif.ts",
+    "lint": "biome check .",
+    "format": "biome check --write .",
+    "preview": "vite preview",
+    "deploy": "npm run build:iiif && npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "@samvera/clover-iiif": "^3.7.0",
+    "@tailwindcss/vite": "^4.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.14.2",
+    "tailwindcss": "^4.2.4"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.13",
+    "@img/sharp-darwin-arm64": "^0.34.5",
+    "@img/sharp-libvips-darwin-arm64": "^1.2.4",
+    "@types/node": "^24.12.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "gh-pages": "^6.3.0",
+    "lefthook": "^2.1.6",
+    "node-addon-api": "^8.7.0",
+    "node-gyp": "^12.3.0",
+    "sharp": "^0.34.5",
+    "tsx": "^4.21.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.10"
+  }
+}

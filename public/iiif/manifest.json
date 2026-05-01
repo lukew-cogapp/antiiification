@@ -1,0 +1,669 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "/antifffication/iiif/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Antifffication — ants of the Cogapp office"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Photographs and videos of ants encountered around the Cogapp office."
+    ]
+  },
+  "items": [
+    {
+      "id": "/antifffication/iiif/manifest/canvas/0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084628181.jpg"
+        ]
+      },
+      "width": 4080,
+      "height": 3072,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084628181/full/510,384/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 510,
+          "height": 384
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/0/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/0",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084628181/full/510,384/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4080,
+                "height": 3072,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-084628181",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084632998.jpg"
+        ]
+      },
+      "width": 4080,
+      "height": 3072,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084632998/full/510,384/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 510,
+          "height": 384
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/1",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084632998/full/510,384/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4080,
+                "height": 3072,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-084632998",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084634336.mp4"
+        ]
+      },
+      "width": 1920,
+      "height": 1080,
+      "duration": 1.300089,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084634336/thumb.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 400,
+          "height": 225
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/2/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/2",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084634336/PXL_20260501_084634336.mp4",
+                "type": "Video",
+                "format": "video/mp4",
+                "width": 1920,
+                "height": 1080,
+                "duration": 1.300089
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084640661.mp4"
+        ]
+      },
+      "width": 1920,
+      "height": 1080,
+      "duration": 0.733367,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084640661/thumb.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 400,
+          "height": 225
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/3/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/3",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084640661/PXL_20260501_084640661.mp4",
+                "type": "Video",
+                "format": "video/mp4",
+                "width": 1920,
+                "height": 1080,
+                "duration": 0.733367
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084651648.mp4"
+        ]
+      },
+      "width": 1920,
+      "height": 1080,
+      "duration": 1.333444,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084651648/thumb.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 400,
+          "height": 225
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/4/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/4",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084651648/PXL_20260501_084651648.mp4",
+                "type": "Video",
+                "format": "video/mp4",
+                "width": 1920,
+                "height": 1080,
+                "duration": 1.333444
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084704792.MP.jpg"
+        ]
+      },
+      "width": 3072,
+      "height": 4080,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084704792-mp/full/384,510/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 384,
+          "height": 510
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/5/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/5/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/5",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084704792-mp/full/384,510/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3072,
+                "height": 4080,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-084704792-mp",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084712249.jpg"
+        ]
+      },
+      "width": 4080,
+      "height": 3072,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084712249/full/510,384/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 510,
+          "height": 384
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/6/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/6/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/6",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084712249/full/510,384/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4080,
+                "height": 3072,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-084712249",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084720030.mp4"
+        ]
+      },
+      "width": 1920,
+      "height": 1080,
+      "duration": 1.0991,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084720030/thumb.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 400,
+          "height": 225
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/7/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/7/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/7",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084720030/PXL_20260501_084720030.mp4",
+                "type": "Video",
+                "format": "video/mp4",
+                "width": 1920,
+                "height": 1080,
+                "duration": 1.0991
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084729083.MP.jpg"
+        ]
+      },
+      "width": 3072,
+      "height": 4080,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084729083-mp/full/384,510/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 384,
+          "height": 510
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/8/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/8/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/8",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084729083-mp/full/384,510/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3072,
+                "height": 4080,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-084729083-mp",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_084743030.jpg"
+        ]
+      },
+      "width": 3072,
+      "height": 4080,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-084743030/full/384,510/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 384,
+          "height": 510
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/9/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/9/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/9",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-084743030/full/384,510/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3072,
+                "height": 4080,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-084743030",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_085923285.MP.jpg"
+        ]
+      },
+      "width": 4080,
+      "height": 3072,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-085923285-mp/full/510,384/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 510,
+          "height": 384
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/10/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/10/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/10",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-085923285-mp/full/510,384/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4080,
+                "height": 3072,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-085923285-mp",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_085945425.jpg"
+        ]
+      },
+      "width": 4080,
+      "height": 3072,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-085945425/full/510,384/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 510,
+          "height": 384
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/11/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/11/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/11",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-085945425/full/510,384/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4080,
+                "height": 3072,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-085945425",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/12",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_090204008.jpg"
+        ]
+      },
+      "width": 4080,
+      "height": 3072,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-090204008/full/510,384/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 510,
+          "height": 384
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/12/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/12/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/12",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-090204008/full/510,384/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4080,
+                "height": 3072,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-090204008",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/antifffication/iiif/manifest/canvas/13",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "PXL_20260501_090226764.jpg"
+        ]
+      },
+      "width": 3072,
+      "height": 4080,
+      "thumbnail": [
+        {
+          "id": "/antifffication/iiif/pxl-20260501-090226764/full/384,510/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 384,
+          "height": 510
+        }
+      ],
+      "items": [
+        {
+          "id": "/antifffication/iiif/manifest/canvas/13/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/antifffication/iiif/manifest/canvas/13/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/antifffication/iiif/manifest/canvas/13",
+              "body": {
+                "id": "/antifffication/iiif/pxl-20260501-090226764/full/384,510/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3072,
+                "height": 4080,
+                "service": [
+                  {
+                    "id": "/antifffication/iiif/pxl-20260501-090226764",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
